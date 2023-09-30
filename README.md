@@ -13,3 +13,7 @@ Activity 2: Adding your personal information
 Activity 3: Changing the theme colour
 ![Alt text](/screenshots/activity3website.png)
 ![Alt text](/screenshots/activity3repo.png)
+
+Activty 4: Places Travelled
+![Alt text](/screenshots/activity4website.png)
+![Alt text](/screenshots/activity4repo.png)
